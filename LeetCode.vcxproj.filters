@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125_ValidPalindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198_HouseRobber .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206_ReverseLinkedList .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="188_Pascal%27sTriangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="129_SumRootToLeafNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134_GasStation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136_SingleNumber .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139_WordBreak.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140_WordBreak2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141_LinkedListCycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="143_ReorderList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="144_BinaryTreePreorderTraversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="145_BinaryTreePostorderTraversal .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="147_InsertionSortList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="153_FindMinimumInRotatedSortedArray .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148_SortList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="150_EvaluateReversePolishNotation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="151_ReverseWordsInAString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="191_NumberOf1Bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="190_ReverseBits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="189_RotateArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="172_FactorialTrailingZeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="171_ExcelSheetColumnNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="168_ExcelSheetColumnTitle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="169_MajorityElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="162_FindPeakElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="152_MaximumProductSubarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Hello world.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="205_IsomorphicStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202_HappyNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203_RemoveLinkedListElements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201_BitwiseANDOfNumbersRange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="199_BinaryTreeRightSideView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="213_HouseRobber2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_RegularExpressionMatching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25_ReverseNodesInK-Group.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_JumpGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_JumpGame2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51_NQueens.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160_IntersectionOfTwoLinkedLists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mainheader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
